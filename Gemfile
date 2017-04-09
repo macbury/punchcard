@@ -12,3 +12,6 @@ gem 'rack-app-front_end'
 gem 'daybreak'
 gem 'config'
 gem 'haml'
+
+gem 'cocaine'
+gem 'volkswagen', '~> 0.1.0'
